@@ -1,4 +1,5 @@
 #Merge PDF files with ease 
+#A project with a great reason behind it, 
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
